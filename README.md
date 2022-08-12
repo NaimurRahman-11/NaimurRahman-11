@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Naimur Rahman</h1>
+<h1 align="center">Hi 👋, I am Naimur Rahman</h1>
 <h3 align="center">A passionate Search Engine Optimizer from Bangladesh.</h3>
 
 
@@ -35,4 +35,4 @@
 
 <p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimurRahman-11&" alt="NaimurRahman-11" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraaaaav&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NaimurRahman-11&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
