@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nirzon.naim@gmail.com**
 
-- ⚡ Fun fact **I love play guitar and sing**
+- ⚡ Fun fact **I love to play guitar and sing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
