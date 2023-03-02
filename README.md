@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **SEO**
 
-- 👨‍💻 Want to know everything about me? [My Portfolio](https://cr3w.netlify.app/)
+- 👨‍💻 Want to know everything about me? [My Portfolio]
 
 - 💬 Ask me about **SEO, Digital Marketing, Business Strategy, On-page/Off-page SEO, Content Writing**
 
