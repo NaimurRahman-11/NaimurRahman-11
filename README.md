@@ -27,12 +27,20 @@
 
  <div align="left" style="display: flex; flex-wrap: wrap;">
 
+ <a href="https://java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="postman" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://jmeter.apache.org" target="_blank" rel="noreferrer"> 
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000" alt="selenium" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
